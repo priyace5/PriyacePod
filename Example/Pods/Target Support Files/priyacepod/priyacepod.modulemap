@@ -1,0 +1,6 @@
+framework module priyacepod {
+  umbrella header "priyacepod-umbrella.h"
+
+  export *
+  module * { export * }
+}

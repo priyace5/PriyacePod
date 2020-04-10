@@ -1,0 +1,22 @@
+{
+  "name": "priyacepod",
+  "version": "0.1.0",
+  "summary": "A short description of priyacepod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Priya/priyacepod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Priya": "priyace5@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Priya/priyacepod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "priyacepod/Classes/**/*"
+}

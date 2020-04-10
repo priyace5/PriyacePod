@@ -1,0 +1,16 @@
+PODS:
+  - priyacepod (0.1.0)
+
+DEPENDENCIES:
+  - priyacepod (from `../`)
+
+EXTERNAL SOURCES:
+  priyacepod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  priyacepod: 8bc9e9c253913188d791f141a0ad71555f2c9c42
+
+PODFILE CHECKSUM: d1934552c3b68635fc92924b79fea15dee909174
+
+COCOAPODS: 1.8.4

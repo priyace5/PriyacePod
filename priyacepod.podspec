@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'priyacepod'
-  s.version          = '0.1.0'
+  s.version          = '1.0'
   s.summary          = 'A short description of priyacepod.'
 
 # This description is used to generate tags and improve search results.
@@ -21,17 +21,17 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Priya/priyacepod'
+  s.homepage         = 'https://github.com/priyace5/PriyacePod'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.license          = 'MIT'
   s.author           = { 'Priya' => 'priyace5@gmail.com' }
-  s.source           = { :git => 'https://github.com/Priya/priyacepod.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/priyace5/PriyacePod.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '11.0'
 
   s.source_files = 'priyacepod/Classes/**/*'
-  
+  s.swift_versions = '5.0'
   # s.resource_bundles = {
   #   'priyacepod' => ['priyacepod/Assets/*.png']
   # }
