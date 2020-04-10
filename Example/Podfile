@@ -1,0 +1,6 @@
+use_frameworks!
+target 'priyacepod_Tests' do
+  pod 'priyacepod', :path => '../'
+  
+  
+end
