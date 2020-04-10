@@ -18,9 +18,7 @@
 		607FACE51AFB9204008FA782 /* priyacepod_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = priyacepod_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		C999DB87995463FA8956BC54 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		CCBC7B9EA21B5A29BE27A3C5 /* priyacepod.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = priyacepod.podspec; path = ../priyacepod.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		F96309C89F6C111698178E10 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,8 +90,6 @@
 			isa = PBXGroup;
 			children = (
 				CCBC7B9EA21B5A29BE27A3C5 /* priyacepod.podspec */,
-				F96309C89F6C111698178E10 /* README.md */,
-				C999DB87995463FA8956BC54 /* LICENSE */,
 			);
 			name = "Podspec Metadata";
 			sourceTree = "<group>";
